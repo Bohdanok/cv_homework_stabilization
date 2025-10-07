@@ -1,0 +1,7 @@
+temp/
+dataset-seq1/
+gaussian-splatting/
+nvdiffrast/
+*.yaml
+*.tar
+__pycache__/
