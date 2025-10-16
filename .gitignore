@@ -5,3 +5,6 @@ nvdiffrast/
 *.yaml
 *.tar
 __pycache__/
+*.mp4
+*.zip
+colab_data/
